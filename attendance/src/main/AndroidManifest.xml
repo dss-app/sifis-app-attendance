@@ -3,7 +3,8 @@
     package="id.mydss.attendance">
 
     <application>
-        <activity android:name=".Hello"></activity>
+        <activity android:name=".AttendanceApp"></activity>
+        <activity android:name=".Hello" />
     </application>
 
 </manifest>
